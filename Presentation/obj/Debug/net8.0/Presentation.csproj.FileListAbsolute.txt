@@ -1,0 +1,11 @@
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.deps.json
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.dll
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.pdb
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.dll
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.pdb
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Presentation\obj\Debug\net8.0\ref\Presentation.dll

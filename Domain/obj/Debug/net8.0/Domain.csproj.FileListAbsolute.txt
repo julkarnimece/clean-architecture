@@ -1,0 +1,11 @@
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\bin\Debug\net8.0\Domain.dll
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\bin\Debug\net8.0\Domain.pdb
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.dll
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.pdb
+E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\ref\Domain.dll

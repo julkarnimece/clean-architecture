@@ -1,0 +1,666 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\web\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|solutionrelative:web\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|solutionrelative:web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6FF3B7C-0655-45A2-A459-3C4A7B092540}|Web\\Web.csproj|solutionrelative:web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\presentation\\controllers\\webinarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\webinarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\commands\\createwebinar\\createwebinarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\commands\\createwebinar\\createwebinarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\commands\\createwebinar\\createwebinarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\commands\\createwebinar\\createwebinarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\presentation\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\infrastructure\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\infrastructure\\configurations\\webinarconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\webinarconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\infrastructure\\repositories\\webinarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16E2EB4-F18E-4DE5-8304-2110459A9357}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\webinarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\queries\\getwebinarbyid\\getwebinarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\queries\\getwebinarbyid\\getwebinarqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\queries\\getwebinarbyid\\getwebinarbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\queries\\getwebinarbyid\\getwebinarbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\commands\\createwebinar\\createwebinarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\commands\\createwebinar\\createwebinarcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\exceptions\\base\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\exceptions\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\base\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\abstractions\\iwebinarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\iwebinarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\queries\\getwebinarbyid\\webinarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\queries\\getwebinarbyid\\webinarresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\webinars\\commands\\createwebinar\\createwebinarcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\webinars\\commands\\createwebinar\\createwebinarcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79A823F1-44F2-4EA6-997B-75795E9AE272}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\exceptions\\webinarnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\webinarnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\entities\\webinar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\webinar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D71AAD-AB8C-4004-807E-56A6D3F1D679}|Presentation\\Presentation.csproj|solutionrelative:presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|e:\\personalprojectforexpolretech\\cleanarchitecture\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13CAFCF8-7217-4796-8421-9386003BE92E}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Web\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Web\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:27:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Startup.cs",
+              "RelativeDocumentMoniker": "Web\\Startup.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Startup.cs",
+              "RelativeToolTip": "Web\\Startup.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:52:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T14:47:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:47:29.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Application\\AssemblyReference.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\AssemblyReference.cs",
+              "RelativeToolTip": "Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:57:58.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Web\\WeatherForecast.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\WeatherForecast.cs",
+              "RelativeToolTip": "Web\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:47:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebinarController.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\Controllers\\WebinarController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\WebinarController.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\Controllers\\WebinarController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\WebinarController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:40:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:12:40.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Presentation",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "Presentation\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T13:28:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:51:00.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateWebinarRequest.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarRequest.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarRequest.cs",
+              "RelativeToolTip": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:19:33.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateWebinarCommand.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommand.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommand.cs",
+              "RelativeToolTip": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:18:42.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ApiController.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:35:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T21:09:52.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WebinarConfiguration.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Configurations\\WebinarConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\WebinarConfiguration.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Configurations\\WebinarConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\WebinarConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:32:25.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:06:53.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AssemblyReference.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\AssemblyReference.cs",
+              "RelativeToolTip": "Infrastructure\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:58:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebinarRepository.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Repositories\\WebinarRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\WebinarRepository.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Repositories\\WebinarRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\WebinarRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:10:13.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetWebinarQueryHandler.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarQueryHandler.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarQueryHandler.cs",
+              "RelativeToolTip": "Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarQueryHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:29:08.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetWebinarByIdQuery.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarByIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarByIdQuery.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarByIdQuery.cs",
+              "RelativeToolTip": "Application\\Webinars\\Queries\\GetWebinarById\\GetWebinarByIdQuery.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vwkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:28:53.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateWebinarCommandHandler.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandHandler.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandHandler.cs",
+              "RelativeToolTip": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vwoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:19:09.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Exceptions\\Base\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\BadRequestException.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Exceptions\\Base\\BadRequestException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Base\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:18:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\Base\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:10:44.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:00:20.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:53:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:49:13.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:50:24.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IWebinarRepository.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Abstractions\\IWebinarRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\IWebinarRepository.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Abstractions\\IWebinarRepository.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\IWebinarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:12:08.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebinarResponse.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Queries\\GetWebinarById\\WebinarResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Queries\\GetWebinarById\\WebinarResponse.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Queries\\GetWebinarById\\WebinarResponse.cs",
+              "RelativeToolTip": "Application\\Webinars\\Queries\\GetWebinarById\\WebinarResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:29:24.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateWebinarCommandValidator.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandValidator.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandValidator.cs",
+              "RelativeToolTip": "Application\\Webinars\\Commands\\CreateWebinar\\CreateWebinarCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:19:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T20:15:11.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:13:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WebinarNotFoundException.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Exceptions\\WebinarNotFoundException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\WebinarNotFoundException.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Exceptions\\WebinarNotFoundException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\WebinarNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:07:26.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\Entity.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "Domain\\Primitives\\Entity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:04:48.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Webinar.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Entities\\Webinar.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Webinar.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Entities\\Webinar.cs",
+              "RelativeToolTip": "Domain\\Entities\\Webinar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:01:19.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-12T19:59:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "Presentation\\AssemblyReference.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:59:03.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:58:18.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+bin/
+obj/
+[Ll]og/
+TestResults/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.appx
+*.appxupload
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.csproj.user
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Visual Studio working folder
+.vs/
+.vscode/
+
+# Auto-generated files
+Generated_Code/
+GeneratedFiles/
+
+# User-specific files
+*.user
+*.rsuser
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+# Uncomment if using package references
+# !**/packages.config
+
+# Microsoft Azure
+*.azurePubxml
+*.pubxml
+*.publishproj
+PublishProfiles/
+
+# Rider
+.idea/
+*.sln.iml
+
+# TFS
+$tf/
+
+# DotCover
+.idea/
+*.dotCover
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+*.DotSettings
+
+# Code Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+
+# Entity Framework Migrations history
+Migrations/
+
+# Optional: secrets
+appsettings.Development.json
+secrets.json
+
+# NPM / Yarn
+node_modules/
+package-lock.json
+yarn.lock
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+
+# JetBrains Rider
+.idea/
+
+# Local history
+.localhistory/
+
+# SQLite database
+*.db
+*.sqlite
+
+# Environment files
+.env
+.env.*
+
+# Compiled Razor
+**/obj/**/Razor/
+
+# Others
+*.swp
+*.swn
+*.swo
+.DS_Store
+Thumbs.db

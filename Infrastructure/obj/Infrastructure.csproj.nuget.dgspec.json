@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj": {}
+    "E:\\Personal Project\\clean-architecture\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj": {
+    "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\obj\\",
+        "outputPath": "E:\\Personal Project\\clean-architecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj": {
+    "E:\\Personal Project\\clean-architecture\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "E:\\Personal Project\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "E:\\Personal Project\\clean-architecture\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Infrastructure\\obj\\",
+        "outputPath": "E:\\Personal Project\\clean-architecture\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj"
+              "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj"
               }
             }
           }

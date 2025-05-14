@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj": {}
+    "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj": {
+    "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+        "projectPath": "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\obj\\",
+        "outputPath": "E:\\Personal Project\\clean-architecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

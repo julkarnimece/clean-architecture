@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OBnNqPx4FH0=",
+  "dgSpecHash": "Z/TVJM5cf54=",
   "success": true,
-  "projectFilePath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\Personal Project\\clean-architecture\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

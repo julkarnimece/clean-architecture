@@ -9,3 +9,15 @@ E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domai
 E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\refint\Domain.dll
 E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.pdb
 E:\PersonalProjectForExpolreTech\CleanArchitecture\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\Personal Project\clean-architecture\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Personal Project\clean-architecture\Domain\bin\Debug\net8.0\Domain.dll
+E:\Personal Project\clean-architecture\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.dll
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Personal Project\clean-architecture\Domain\obj\Debug\net8.0\ref\Domain.dll

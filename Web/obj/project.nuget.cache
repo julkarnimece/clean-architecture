@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PeN0ykCxofQ=",
+  "dgSpecHash": "9oDQvC0xaCQ=",
   "success": true,
-  "projectFilePath": "E:\\PersonalProjectForExpolreTech\\CleanArchitecture\\Web\\Web.csproj",
+  "projectFilePath": "E:\\Personal Project\\clean-architecture\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",

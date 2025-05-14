@@ -13,3 +13,19 @@ E:\PersonalProjectForExpolreTech\CleanArchitecture\Infrastructure\obj\Debug\net8
 E:\PersonalProjectForExpolreTech\CleanArchitecture\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 E:\PersonalProjectForExpolreTech\CleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 E:\PersonalProjectForExpolreTech\CleanArchitecture\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+E:\Personal Project\clean-architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+E:\Personal Project\clean-architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+E:\Personal Project\clean-architecture\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+E:\Personal Project\clean-architecture\Infrastructure\bin\Debug\net8.0\Domain.dll
+E:\Personal Project\clean-architecture\Infrastructure\bin\Debug\net8.0\Domain.pdb
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+E:\Personal Project\clean-architecture\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

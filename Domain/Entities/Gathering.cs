@@ -3,10 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.DomainErrors;
+using Domain.Exceptions;
+using Domain.Primitives;
+using Domain.Shared;
+using Domain.DomainErrors;
 
 namespace Domain.Entities
 {
-    public class Gathering
+    public sealed class Gathering : Entity 
     {
 
         private readonly List<Invitation> _invitations = new();
@@ -18,9 +23,8 @@ namespace Domain.Entities
         GatheringType type,
         DateTime scheduledAtUtc,
         string name,
-        string? location)
+        string? location) : base(id)
         {
-            Id = id;
             Creator = creator;
             Type = type;
             ScheduledAtUtc = scheduledAtUtc;
@@ -28,8 +32,6 @@ namespace Domain.Entities
             Location = location;
         }
 
-
-        public Guid Id { get; private set; }
 
         public Member Creator { get; private set; }
 
@@ -71,46 +73,65 @@ namespace Domain.Entities
                 name,
                 location);
 
+            gathering.CalculateGatheringTypeDetails(
+                maximumNumberOfAttendees,
+                invitationsValidBeforeInHours);
+
+
+            
+            return gathering;
+        }
+
+        private void CalculateGatheringTypeDetails(int? maximumNumberOfAttendees, int? invitationsValidBeforeInHours)
+        {
             // Calculate gathering type details
-            switch (gathering.Type)
+            switch (Type)
             {
                 case GatheringType.WithFixedNumberOfAttendees:
                     if (maximumNumberOfAttendees is null)
                     {
-                        throw new Exception(
+                        throw new GatheringMaximumNumberOfAttendeesIsNullException(
                             $"{nameof(maximumNumberOfAttendees)} can't be null.");
                     }
 
-                    gathering.MaximumNumberOfAttendees = maximumNumberOfAttendees;
+                    MaximumNumberOfAttendees = maximumNumberOfAttendees;
                     break;
                 case GatheringType.WithExpirationForInvitations:
                     if (invitationsValidBeforeInHours is null)
                     {
-                        throw new Exception(
+                        throw new GatheringInvitationValidBeforeInHoursIsNullException(
                             $"{nameof(invitationsValidBeforeInHours)} can't be null.");
                     }
 
-                    gathering.InvitationsExpireAtUtc =
-                        gathering.ScheduledAtUtc.AddHours(-invitationsValidBeforeInHours.Value);
+                    InvitationsExpireAtUtc =
+                        ScheduledAtUtc.AddHours(-invitationsValidBeforeInHours.Value);
                     break;
                 default:
                     throw new ArgumentOutOfRangeException(nameof(GatheringType));
             }
 
-            return gathering;
         }
 
-        public Invitation SendInvitation(Member member)
+        public Result< Invitation > SendInvitation(Member member)
         {
             // Validate
             if (Creator.Id == member.Id)
             {
-                throw new Exception("Can't send invitation to the gathering creator.");
+                return Result.Failure<Invitation>(Exceptions.DomainErrors.Gathering.InvitingError);
+
+  
+                //throw new Exception("Can't send invitation to the gathering creator.");
             }
 
             if (ScheduledAtUtc < DateTime.UtcNow)
             {
-                throw new Exception("Can't send invitation for gathering in the past.");
+
+                return Result.Failure<Invitation>(Exceptions.DomainErrors.Gathering.GatheringAlreadyPassed);
+
+
+                //return Result.Failure<Invitation>(new Error("Gathering.AlreadyPassed", "Gathering date already passed !!!"));
+
+                //throw new Exception("Can't send invitation for gathering in the past.");
             }
 
             var invitation = new Invitation(Guid.NewGuid(), member, this);

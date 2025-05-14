@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using Application.Abstractions;
 using Domain.Abstractions;
+using Domain.Entities;
+using Domain.Shared;
 using MediatR;
 
 namespace Application.Invitations.Commands.SendInvitation
@@ -44,9 +46,15 @@ namespace Application.Invitations.Commands.SendInvitation
                 return Unit.Value;
             }
 
-            var invitation = gathering.SendInvitation(member);
+            Result<Invitation> invitationResult = gathering.SendInvitation(member);
 
-            _invitationRepository.Add(invitation);
+            if (invitationResult.IsFailure)
+            {
+                return Unit.Value;
+            }
+            // var invitation = gathering.SendInvitation(member);
+
+            _invitationRepository.Add(invitationResult.Value);
 
             await _unitOfWork.SaveChangesAsync(cancellationToken);
 

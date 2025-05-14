@@ -3,12 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.Primitives;
 
 namespace Domain.Entities
 {
-    public class Member
+    public sealed class Member : Entity
     {
-        public Guid Id { get; set; }
+        public Member(Guid id, string firstName, string lastName , string email) : base(id)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Email = email;
+        }
 
         public string FirstName { get; set; }
 

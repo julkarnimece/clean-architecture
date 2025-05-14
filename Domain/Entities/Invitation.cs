@@ -3,21 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.Primitives;
 
 namespace Domain.Entities
 {
-    public class Invitation
+    public sealed class Invitation : Entity
     {
-        internal Invitation(Guid id, Member member, Gathering gathering)
+        internal Invitation(Guid id, Member member, Gathering gathering): base(id)
         {
-            Id = id;
             MemberId = member.Id;
             GatheringId = gathering.Id;
             Status = InvitationStatus.Pending;
             CreatedOnUtc = DateTime.UtcNow;
         }
-
-        public Guid Id { get; private set; }
 
         public Guid GatheringId { get; private set; }
 

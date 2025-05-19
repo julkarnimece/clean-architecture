@@ -3,15 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Domain.DomainErrors;
 using Domain.Exceptions;
 using Domain.Primitives;
 using Domain.Shared;
-using Domain.DomainErrors;
 
 namespace Domain.Entities
 {
-    public sealed class Gathering : Entity 
+    public sealed class Gathering : AggregateRoot 
     {
 
         private readonly List<Invitation> _invitations = new();
